@@ -8,4 +8,4 @@ imagens/
 
 *.log
 
-*.sql
+# *.sql
