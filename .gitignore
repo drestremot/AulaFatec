@@ -1,0 +1,11 @@
+# arquivo de configuração que exclui pastas e arquivos que serão enviados ao GitHub  
+
+# Restingindo pastas
+imagens/
+
+#restringindo Arquivos
+.env
+
+*.log
+
+*.sql
